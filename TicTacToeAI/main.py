@@ -87,7 +87,7 @@ def draw(board):
             counter += 1
         print()
         if i != 2:
-            print("\t-------------------------")
+            print("\t---------------------------------------------")
 
 
 def winning(board, player):
